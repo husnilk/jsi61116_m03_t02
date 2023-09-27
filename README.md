@@ -1,12 +1,20 @@
 # Tugas M03: Transaksi
 
+## Tujuan
+Mempraktekkan penggunaan `constructor` pada Kelas Java
+
+## Deskripsi 
+
+Mahasiswa diminta untuk membuat 2 buat kelas yaitu kelas `Pelanggan` dan kelas `Transaksi`.
+
+
 Buatlah kelas `Pelanggan` dengan properti berikut ini.
 
 * Nama (string)
 * No. ID (integer)
 * No. HP (string)
 * Email (string)
-* member (boolean)
+* member (boolean) // true jika member, false jika bukan.
 * Status (integer) // 1 = aktif, 0 = non-aktif
 
 Buatlah kelas `Transaksi` dimana kelas ini memiliki property berikut ini yang semuanya memiliki access modifier Public.
