@@ -25,6 +25,6 @@ Buatlah kelas `Transaksi` dimana kelas ini memiliki property berikut ini yang se
 Selain itu, kelas `Transaksi` juga memiliki sebuah constructor dengan argumen berupa objek dari kelas `Pelanggan`. Kelas `Transaksi` juga memiliki method `hitungTotalBayar` yang akan menghitung jumlah pembayaran yang harus dibayar oleh pelanggan dengan aturan sebagai berikut:
 * Jika total belanja 500rb - 1jt, pelanggan tersebut mendapat diskon member 1%
 * Jika total belanja > 1jt hingga 10jt, pelanggan tersebut mendapat diskon member 3%
-* Jika total belanja > 10 jt, pelanggan tersebut mendapat diskon member 3%
+* Jika total belanja > 10 jt, pelanggan tersebut mendapat diskon member 5%
 
 Aturan diatas hanya berlaku untuk pelanggan yang merupakan member.
